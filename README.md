@@ -1,6 +1,8 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, sou o Cesar Sussumu
+Olá, sou o Cesar Sussumu / Hi, I'm Cesar Sussumu
+
+![eu](https://user-images.githubusercontent.com/70071238/224495215-c95349bc-226e-4941-857c-fb9ec913bba6.jpg)
 
 ## Meus hobbies
 
