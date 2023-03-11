@@ -19,6 +19,7 @@ Linkedin: cesarikarimoto
 - Git e GitHub
 - React
 - JavaScript e TypeScript
+- Data Science
 
 ## Meus contatos
 
