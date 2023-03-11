@@ -2,6 +2,7 @@
 
 Olá, sou o Cesar Sussumu / Hi, I'm Cesar Sussumu
 
+Sou de São Paulo / I'm from São Paulo
 
 Linkedin: cesarikarimoto
 
